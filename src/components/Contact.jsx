@@ -10,14 +10,14 @@ const contactInfo = [
   {
     icon: <HiMail />,
     label: 'Email',
-    value: 'ilham.ardiansyah@email.com',
-    href: 'mailto:ilham.ardiansyah@email.com',
+    value: 'ilhamardiansyah980@gmail.com',
+    href: 'mailto:ilhamardiansyah980@gmail.com',
   },
   {
     icon: <HiPhone />,
     label: 'Phone',
-    value: '+62 812-XXXX-XXXX',
-    href: 'tel:+6281200000000',
+    value: '+62 857-6041-2378',
+    href: 'tel:+6285760412378',
   },
   {
     icon: <HiLocationMarker />,
@@ -30,7 +30,7 @@ const contactInfo = [
 const socialLinks = [
   { icon: <FaLinkedinIn />, href: 'https://linkedin.com', label: 'LinkedIn' },
   { icon: <FaInstagram />, href: 'https://instagram.com', label: 'Instagram' },
-  { icon: <FaWhatsapp />, href: 'https://wa.me/6281200000000', label: 'WhatsApp' },
+  { icon: <FaWhatsapp />, href: 'https://wa.me/6285760412378', label: 'WhatsApp' },
 ];
 
 export default function Contact() {

@@ -71,7 +71,7 @@ export default function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.8 }}
             >
-              Lulusan IPB University dengan keahlian di bidang teknologi dan manajemen
+              Lulusan Sekolah Vokasi IPB dengan keahlian di bidang teknologi dan manajemen
               akuakultur terapan. Berdedikasi untuk mengoptimalkan proses produksi
               dengan pendekatan inovatif dan terukur.
             </motion.p>
@@ -92,7 +92,6 @@ export default function Hero() {
             </motion.div>
 
             <motion.div
-              className="hero__socials"
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: 1.2 }}
